@@ -1,0 +1,70 @@
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\bin\Debug\Ejercicio01.xml
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\obj\Debug\Ejercicio01.Resources.resources
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\obj\Debug\Ejercicio01.vbproj.GenerateResource.Cache
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\obj\Debug\Ejercicio01.xml
+C:\Users\ubuntu\AppData\Local\Temporary Projects\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.xml
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.xml
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Resources.resources
+C:\Users\ubuntu\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\obj\Debug\Ejercicio01.xml
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\bin\Debug\Ejercicio01.xml
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\obj\Debug\Ejercicio01.Resources.resources
+C:\Users\clases\Desktop\Ejercicio02\Ejercicio01\obj\Debug\Ejercicio01.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\obj\Debug\Ejercicio01.xml
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\bin\Debug\Ejercicio01.xml
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\obj\Debug\Ejercicio01.Resources.resources
+C:\Users\clases\Desktop\Ejercicio03\Ejercicio01\obj\Debug\Ejercicio01.vbproj.GenerateResource.Cache
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.xml
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\bin\Debug\Ejercicio01.xml
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.Resources.resources
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.vbproj.GenerateResource.Cache
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.exe
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.xml
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.pdb
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\obj\Debug\ResolveAssemblyReference.cache
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.Resources.resources
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.vbproj.GenerateResource.Cache
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\bin\Debug\Ejercicio01.exe
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\bin\Debug\Ejercicio01.pdb
+E:\TODO\ProgramacionIII\Ejercicio04\Ejercicio01\bin\Debug\Ejercicio01.xml
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\obj\Debug\Ejercicio01.exe
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\obj\Debug\Ejercicio01.xml
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\obj\Debug\Ejercicio01.pdb
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\bin\Debug\Ejercicio01.exe
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\bin\Debug\Ejercicio01.pdb
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\bin\Debug\Ejercicio01.xml
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\obj\Debug\ResolveAssemblyReference.cache
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\obj\Debug\Ejercicio01.Resources.resources
+E:\TODO\ProgramacionIII\Ejercicio04 mIO\Ejercicio01\obj\Debug\Ejercicio01.vbproj.GenerateResource.Cache

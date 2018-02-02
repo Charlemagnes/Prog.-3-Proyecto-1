@@ -1,0 +1,16 @@
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\bin\Debug\Ejercicio01.exe
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\bin\Debug\Ejercicio01.pdb
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\bin\Debug\Ejercicio01.xml
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\obj\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.Form1.resources
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.Resources.resources
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.vbproj.GenerateResource.Cache
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.exe
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.xml
+E:\PROGRAMACION 3\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.xml
+C:\Users\clases\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\Carlos\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\Carlos\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.xml
+C:\Users\Carlos\Desktop\Ejercicio04\Ejercicio01\obj\Debug\Ejercicio01.pdb
